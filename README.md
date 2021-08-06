@@ -1,1 +1,2 @@
-# Homework-6
+![image](https://user-images.githubusercontent.com/85306141/128457671-e67e4cdc-e4a2-46e1-a724-9a2c89ff25c1.png)
+This is a weather dashboard app. By default, the starting city is Denver. The user can enter the name of any city into the search bar and have various weather conditions shown for the respective city. The user will be presented with the current forecast, as well as the next five days. After a city is searched, it is saved to local storage, and displayed under the search bar. The user may search their pervious inputs by clicking on them. https://loopysquare.github.io/Homework-6/
